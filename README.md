@@ -1,3 +1,10 @@
+
+
+how run the app
+cd desktop/old Very Impo/CRUD-APP/crud-app
+then npm start.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
